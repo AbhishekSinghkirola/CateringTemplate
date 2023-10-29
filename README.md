@@ -16,6 +16,6 @@
 <h3>Usage</h3>
 <p>Clone the respository or download the Zip</p>
 <h3>References</h3>
-<a href="https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm" target="blank">https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm< target="blank"/a>
+<a href="https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm" target="blank">https://www.w3schools.com/w3css/tryw3css_templates_gourmet_catering.htm</a>
 
 
